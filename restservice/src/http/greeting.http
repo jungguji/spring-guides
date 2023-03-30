@@ -1,0 +1,5 @@
+### 기본 호출
+GET http://localhost:8080/greeting
+
+### name 지정
+GET http://localhost:8080/greeting?name=중구
